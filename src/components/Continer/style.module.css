@@ -1,0 +1,12 @@
+.continer{
+    width: 1250px;
+    margin: 0 80px;
+}
+
+@media screen and (max-width: 990px) {
+    .continer{
+        margin: 0 40px;
+    }
+}
+
+
